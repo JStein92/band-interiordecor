@@ -1,0 +1,28 @@
+.sidebar {
+  border: 2px solid green;
+  padding: 8px;
+  float: right;
+  margin: 10px;
+background-color: rgba(30,30,30,.5);
+}
+img {
+
+  padding: 8px;
+  width: 300px;
+
+
+}
+.column p {
+  float: left;
+  width: 300px;
+  margin: 20px;
+}
+.blue-background{
+  background-color: blue;
+}
+.green-background {
+  background-color: green;
+}
+.red-background {
+  background-color: red;
+}
